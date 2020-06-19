@@ -1,0 +1,2 @@
+# statefulset
+Statefulset mongo 
